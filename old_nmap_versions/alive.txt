@@ -1,0 +1,20 @@
+Host  (77.97.50.9) appears to be  down
+Host  (77.97.50.10) appears to be  down
+Host  (77.97.50.11) appears to be  down
+Host  (77.97.50.12) appears to be  down
+Host  (77.97.50.13) appears to be  down
+Host  (77.97.50.14) appears to be  down
+Host  (77.97.50.15) appears to be  down
+Host  (77.97.50.16) appears to be  down
+Host  (77.97.50.17) appears to be  down
+Host  (77.97.50.18) appears to be  down
+Host  (77.97.50.19) appears to be  down
+Host  (77.97.50.20) appears to be  up
+Host  (77.97.50.21) appears to be  up
+Host  (77.97.50.22) appears to be  down
+Host  (77.97.50.23) appears to be  down
+Host  (77.97.50.24) appears to be  down
+Host  (77.97.50.25) appears to be  down
+Host  (77.97.50.26) appears to be  down
+Host  (77.97.50.27) appears to be  down
+
