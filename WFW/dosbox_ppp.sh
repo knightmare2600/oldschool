@@ -64,7 +64,7 @@ function ctrl_c() {
 echo "SoF Presents:"
 echo "  1995 ISP Simulator"
 echo "Starting Simulator:"
-if [ "$1"=="BT" ]; then
+#if [ "$1"=="BT" ]; then
 # echo
 # echo "
 #    ______            ________             _____ 
@@ -100,6 +100,6 @@ do
     then
         sleep 1
     else
-        sudo pppd "/tmp/trumpet" defaultroute mtu 576 192.168.139.251:192.168.139.252 login proxyarp > /dev/null 2>&1
+        sudo pppd "/tmp/trumpet" defaultroute mtu 576 192.168.100.251:192.168.100.252 login proxyarp > /dev/null 2>&1
     fi
 done
